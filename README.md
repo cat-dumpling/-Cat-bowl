@@ -1,1 +1,1 @@
-测试github功能所用的repostory
+测试github功能所用的repository
